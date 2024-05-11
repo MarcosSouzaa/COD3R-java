@@ -12,7 +12,7 @@ public class Temperatura {
 		double celsius = (fahrenheit - AJUSTE) * FATOR;
 		System.out.println("A conversão de " + fahrenheit + " °F em °C é : " + celsius + " °C graus.");
 		
-		fahrenheit = 0;
+		fahrenheit = 60;
 		celsius = (fahrenheit - AJUSTE) * FATOR;
 		System.out.println("A conversão de " + fahrenheit + " °F em °C é : " + celsius + " °C graus.");
 		 
