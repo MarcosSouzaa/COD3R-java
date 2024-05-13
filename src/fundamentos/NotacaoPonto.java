@@ -41,10 +41,12 @@ public class NotacaoPonto {
 				.concat("!!!");	 
         System.out.println(d);
         
-        //" TIPOS PRIMITIVOS NÃO TEM O OPERADOR "." (PONTO)!!"
-        
+        /* " TIPOS PRIMITIVOS NÃO TEM O OPERADOR "." (PONTO)!!"
+         Aqui após o ponto não aparecerá nada. 
+         Ou seja, você não tem atributos ou comportamentos 
+         associados ao tipo primitivo.       
         int e = 3;
         e.
+        */        
 	}
-
 }
