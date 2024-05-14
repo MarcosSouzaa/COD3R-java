@@ -108,68 +108,7 @@ public class TipoString {
 		System.out.println("Frase qualquer".substring(6));
 		
 		// Passando dois parâmetros, ele não umprime o caracter 8		
-		System.out.println("Frase qualquer".substring(6, 8));// qu 
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		System.out.println("Frase qualquer".substring(6, 8));// qu 	
 		
 	} 
 
